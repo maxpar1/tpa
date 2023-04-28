@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x47571F0f1942755d50BA1ce7E8e7f638188E771e",
+  "SCAN_LINK": "https://etherscan.io/address/0x2a743b17fdc113541aab91d757faa6d5e851d3c0#code",
+  "NETWORK": {
+    "NAME": "GOERLI",
+    "SYMBOL": "GTH",
+    "ID": 5
+  },
+  "NFT_NAME": "Token Prophet Alpha",
+  "SYMBOL": "TPA",
+  "MAX_SUPPLY": 150,
+  "WEI_COST": 16900000000000,
+  "DISPLAY_COST": 0.0000169,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
